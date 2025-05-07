@@ -1,5 +1,5 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">GOJO SATORU 😄✌️</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">GOJO ßot😄✌️</h1>
 </p>
 
 <p align="center">
