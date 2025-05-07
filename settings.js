@@ -1,16 +1,16 @@
-//Created by Danny 
+//Created by Manexx😄✌️🇿🇼 
 //Dont clone cause if i catch you i will flag you immediately 
-//contact me wa.me/255697608274
+//contact me wa.me/263716068460
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "263781512430"
+global.ownername = "Manexx"
+global.ownernumber = '263716068460'  //owner number 2
 //put your phone number above
-//let the owner as Danny or you can just put your name
+//let the owner as Manexx or you can just put your name
 
 //custom prefix
 global.prefa = [',','!','.','#','&']
@@ -26,11 +26,11 @@ global.anti91 = false //auto block +91
 global.autoswview = true //auto view status/story
 global.antilink = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
-global.reactEmoji = '😂'; // Default reaction emoji
-//Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
-//suppoet us by following our official channel
-//https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
-//𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝒟𝒶𝓃𝓃𝓎
+global.reactEmoji = '🇿🇼'; // Default reaction emoji
+//Thank you for using GØJO_𝓜𝓓-𝓥𝟏
+//suppoet us by following our official group 
+//https://chat.whatsapp.com/Hlvm3US4ZQ95IAEGbQtHW7
+//𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 Manexx
 
 
 
@@ -42,32 +42,32 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 // Reply messages
 global.mess = {
-    done: "`Bot Creepy Done..!`",
-    prem: "`Oh no 😔! This for creepy premium users only...`",
+    done: "`Bot GOJO Done..!`",
+    prem: "`Oh no 😔! This for Gojo premium users only...`",
     admin: "`Only Admins can use this 😩`",
     botAdmin: "`🤖 I'm not an admin here 🚶`",
-    owner: "`You are not my owner 😡`",
-    group: "`This is only for groups idiot?🤔`",
+    owner: "`You are not my owner 😄✌️`",
+    group: "`This is only for groups buddy?🤔`",
     private: "`Use this in my Dm 😡`",
     wait: "`Wait i 'm on it ...`",
     error: "`Error!`",
 };
 
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
-global.socialm = "GitHub: https://github.com/DannyTech20";
-global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
-global.botname = "CREEPY_MD-V1"; 
+global.socialm = "https://github.com/Manexxxx/GOJO";
+global.location = "kadoma /Zimbabwe";
+global.ownername = "Manexx";
+global.botname = "Gojo_MD-V1"; 
 
 // Sticker details
 global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.author = "manexx";
 
 // Console view/theme
 global.themeemoji = "🤖";
-global.wm = "Danny";
+global.wm = "manexx";
 
-global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r";
+global.link = "https://chat.whatsapp.com/Hlvm3US4ZQ95IAEGbQtHW7";
 
 global.typemenu = "v1";
 
