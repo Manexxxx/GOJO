@@ -1,8 +1,8 @@
-//created by Danny
-//wa.me/255697608274
+//created by manexx
+//wa.me/263716068460
 //Deploy and enjoy
-//Credits (Creepy technology)
-//Follow our channel https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
+//Credits (manexx technology)
+//Follow our what'sapp groups https://chat.whatsapp.com/Hlvm3US4ZQ95IAEGbQtHW7
 
 const axios = require('axios');
 /*
@@ -3033,10 +3033,10 @@ axios.get(url)
                     let reaction = sendReaction('🎉');
                     let menuMessage = `
 ╭─────────────────────────╮
-│   ┃ *\`𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏\`*  ┃
+│   ┃ *\`GOJO🥳_𝓜𝓓-𝓥𝟏\`*  ┃
 ├─────────────────────────┤
 │ *Hello* \`${pushname}\`,                      
-│ *My name is 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏* 
+│ *My name is GOJO😄✌️_𝓜𝓓-𝓥𝟏* 
 │ *Type \`Creepy\` to see the full menu*                  
 ╰─────────────────────────╯
 `.trim();
@@ -3065,10 +3065,10 @@ axios.get(url)
                 let reaction = sendReaction('🎉');
                 let creepmenuoh = `
 ╭─────────────────────╮
-│   ┃ *\`𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏\`*  ┃
+│   ┃ *\`GOJO🥳_𝓜𝓓-𝓥𝟏\`*  ┃
 ├─────────────────────┤
 │ *Hello* \`${pushname}\`,                      
-│ *My name is 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏*                 
+│ *My name is GOJO😄✌️_𝓜𝓓-𝓥𝟏*                 
 ╰─────────────────────╯
 ╭───[ \`𝐌𝐀𝐈𝐍 𝐌𝐄𝐍𝐔\` ]────╮
 │ ◆ *creepy*                                      
@@ -3081,7 +3081,7 @@ axios.get(url)
 │ ◆ *support*                                     
 │ ◆ *owner*                                       
 ╰──────────────────╯ ${readmore}
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭───[ \`𝐁𝐔𝐆 𝐀𝐍𝐃𝐑𝐎𝐈𝐃\` ]────╮
 │ ◆ *creepy-android*                             
 │ ◆ *creepy-android2*                            
@@ -3091,13 +3091,13 @@ axios.get(url)
 │ ◆ *hacker-creepy*                              
 │ ◆ *black-danny*                                
 ╰───────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭───[ \`𝐁𝐔𝐆 𝐖𝐄𝐁\` ]─────╮
 │ ◆ *black-danny*                                
 │ ◆ *black-dannygc*                             
 │ ◆ *black-dannyios*                             
 ╰──────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭──[ \`𝐁𝐔𝐆 𝐈𝐎𝐒\` ]──────╮
 │ ◆ *creepy-ios*                                 
 │ ◆ *creepy-ios2*                                
@@ -3105,7 +3105,7 @@ axios.get(url)
 │ ◆ *black-dannyios*                             
 │ ◆ *ios-creepy*                                  
 ╰─────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭───[ \`𝐁𝐔𝐆 𝐎𝐓𝐇𝐄𝐑\` ]─────╮
 │ ◆ *tempban*                                    
 │ ◆ *creepy-ban*                                 
@@ -3119,7 +3119,7 @@ axios.get(url)
 │ ◆ *creepy-bug-group*                          
 │ ◆ *creepy-gc*                                  
 ╰──────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭───[ \`𝐁𝐀𝐍/𝐔𝐍𝐁𝐀𝐍\` ]─────╮
 │ ◆ *banv1*                                     
 │ ◆ *banv2*                                     
@@ -3133,7 +3133,7 @@ axios.get(url)
 │ ◆ *unbanv4*                                    
 │ ◆ *unbanv5*                                    
 ╰───────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭───[ \`𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔\` ]────╮
 │ ◆ *getsession*                                
 │ ◆ *deletesession*                             
@@ -3156,7 +3156,7 @@ axios.get(url)
 │ ◆ *creepy-open [viewonce]*                      
 │ ◆ *autostatusreact*                             
 ╰─────────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼
 ╭────[ \`𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔\` ]───╮
 │ ◆ *closetime*                                 
 │ ◆ *opentime*                               
@@ -3175,7 +3175,7 @@ axios.get(url)
 │ ◆ *listonline*                                  
 │ ◆ *antilink*                                   
 ╰──────────────────╯
-> 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏 𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝓎 𝒟𝒶𝓃𝓃𝓎
+> GOJO😄✌️_𝓜𝓓-𝓥𝟏🇿🇼 
 ╭────────────────────╮
 │ ◆ *ytmp3 <link>*                              
 │ ◆ *ytmp4 <link>*                               
@@ -3187,8 +3187,8 @@ axios.get(url)
 ┏━━━━━━━━━━━━━━━━━━━━┓
 > To get file just type \`file\`                 
 > New 2025 update                      
-> Created by Danny🫡                   
-> ©️Creepy technology                           
+> Created by Manexx🫡                   
+> ©️Manexx technology                           
 ┗━━━━━━━━━━━━━━━━━━━━┛
 `
                 if (typemenu === 'v1') {
