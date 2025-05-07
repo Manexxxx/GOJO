@@ -1,13 +1,13 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">GOJO SATORU 😄✌️</h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓+𝓥𝟏;Created+by+𝒟𝒶𝓃𝓃𝓎;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+GOJO_𝓜𝓓+𝓥𝟏;Created+by+manexx;Fork+Me+and+Enjoy!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/dcix8w.jpeg" alt="Main Graphic" />
+  <img src="https://telegra.ph/file/4b6e0ff1856546a67e1fe.jpg" alt="Main Graphic" />
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@
 
 <h2 align="center">📲 Join the Community</h2>
 
-<a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r" target="_blank">
+<a href="https://chat.whatsapp.com/Hlvm3US4ZQ95IAEGbQtHW7" target="_blank">
   <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
 </a>
 
